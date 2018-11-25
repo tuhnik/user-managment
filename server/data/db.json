@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "testuser@gmail.com",
+      "password": "$2b$10$o/Duo4PUGFJjqkX2sGxLr.8i4g2EMb1ifgQnU3sr5yGy4dCYPvk7.",
+      "id": "wXw4dvaPj",
+      "logins": [
+        "2018-11-25 21:24:38",
+        "2018-11-25 20:26:04",
+        "2018-11-25 20:05:04",
+        "2018-11-25 20:04:57",
+        "2018-11-25 19:41:05",
+        "2018-11-25 18:37:43",
+        "2018-11-25 17:43:02"
+      ]
+    },
+    {
+      "email": "kartulipuder@gmail.com",
+      "password": "$2b$10$6S8SRaNNy24LB2CAcwN7Uue8MW8.aMS2dYW.5gaOOD8rKx6vxZs5.",
+      "id": "LYZrE6RZb",
+      "logins": [
+        "2018-11-25 22:33:36",
+        "2018-11-25 22:32:44"
+      ]
+    }
+  ]
+}
