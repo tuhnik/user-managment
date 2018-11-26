@@ -20,6 +20,8 @@ Authenticated user can add and delete users. It's also possible to check last lo
 
 ## Screenshot
 ![image](images/screenshot.png)
+## Live demo
+[janar.me/user-managment](https://janar.me/user-managment/)
 
 ## API documentation
 `GET` /api or [README.md](https://github.com/tuhnik/user-managment/blob/master/server/README.md)
